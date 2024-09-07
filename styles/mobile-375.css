@@ -1,0 +1,77 @@
+.body{
+    background-color: rgb(30, 30, 30);
+}
+.fondo{
+    background-color: rgb(48, 48, 48);
+    color: black;
+    
+}
+.up{
+    display: flex ;
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+    align-items: center;
+}
+.h1{
+    font-weight: 500;
+    size: 34px;
+    line-height: 40px;
+}
+.h2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+}
+.icon1{
+    margin-left: 50px;
+    background-color:rgb(86, 69, 53) ;
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+    gap: 10px;
+}
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.down{
+    display: flex;
+    align-items: center;
+    
+}
+.icon2{
+    border-right: 30px;
+    width: 5px;
+    height: 5px;
+    border-right: 10px;
+}
+.image2{
+    display: flex;
+    align-items: center;
+    border-right: 30px;
+    width: 5px;
+    height: 5px;
+    border-right: 50px;
+}
+.letra2{
+    color: rgb(41, 139, 83);
+    border-left: 30px;
+    font-size: 40%;
+    border-left: 10px;
+}
+.letra3{
+    margin-left: 10px;
+    color: rgb(255, 255, 255, 0.6);
+    font-weight: 50;
+    size: 6px;
+    line-height: 14.63px;
+    font-size: 40%;
+    align-items: center;
+
+}
+.letradown{
+    display: flex ;
+    border-left: 30px;
+    align-items: center;
+}
